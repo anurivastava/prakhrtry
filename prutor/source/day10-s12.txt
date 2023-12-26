@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<body>
+<audio controls autoplay>
+<source src="myaudio.mp3" >
+<source src="myaudio.ogg">
+<embed src="myaudio.mp3">
+</audio>
+</body>
+ </html> 

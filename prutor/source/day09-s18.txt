@@ -1,0 +1,4 @@
+<!doctype html>
+<html>
+<a href="mysong.mp3">Playing my song!</a>
+</html>

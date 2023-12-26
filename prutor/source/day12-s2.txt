@@ -1,0 +1,9 @@
+<html>
+<body>
+<script>
+  var car = {type:"Fiat", model:"500", color:"white"};  
+ document.write(car.type );
+ </script>
+ 
+</body>
+</html>

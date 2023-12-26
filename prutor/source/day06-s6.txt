@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+#topnav {
+  float: left;
+}
+#topnav1 {
+  float: right;
+}
+</style>
+</head>
+<body>
+<div id="topnav" >
+this is first devision
+</div>
+<div id="topnav1" >
+this is second devision
+</div>
+</body>
+</html>

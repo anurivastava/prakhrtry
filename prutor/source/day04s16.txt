@@ -1,0 +1,13 @@
+<html>
+<head>
+<style>
+p {
+    font-weight: bold;
+}
+</style>
+</head>
+<body>
+ <p1>This is a heading</p1>
+<p>This is some text.</p>
+</body>
+</html>

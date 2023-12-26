@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+#main {
+position: absolute; 
+  top: 100px; 
+  left: 500px
+}
+</style>
+</head>
+<body>
+<div id="main" >
+<img src="pic.jpg">
+</div>
+</body>
+</html>

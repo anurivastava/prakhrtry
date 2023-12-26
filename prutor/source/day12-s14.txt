@@ -1,0 +1,13 @@
+<html>
+<body>
+<h2>Javascript String length property</h2>
+
+<p id="demo"></p>
+
+<script>
+var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var sln = txt.length;
+document.getElementById("demo").innerHTML = sln;
+</script> 
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.new {
+    color: red
+}
+</style>
+</head>
+<body>
+ <ul>
+ <li class="new">New List</li>
+<li>Coffee</li>
+<li>Tea
+ </li>
+ </ul>
+ </body>
+ </html>         

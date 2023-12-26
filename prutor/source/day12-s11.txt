@@ -1,0 +1,16 @@
+<html>
+<body>
+<input type="text" id="name">
+
+<button onclick="myFunction()">Click Here</button>
+
+<p id="input1"></p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("name").value ;
+  document.getElementById("input1").innerHTML = x;
+}
+</script>
+</body>
+</html>

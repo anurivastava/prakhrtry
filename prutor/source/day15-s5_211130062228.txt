@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+
+<div class="container">
+  <button type="button" class="btn btn-outline-primary">btn btn-outline-primary</button>
+  <button type="button" class="btn btn-outline-secondary">btn btn-outline-secondary</button>
+  <button type="button" class="btn btn-outline-success">btn btn-outline-success</button>
+  <button type="button" class="btn btn-outline-info">btn btn-outline-info</button>
+  <button type="button" class="btn btn-outline-warning">btn btn-outline-warning</button>
+  <button type="button" class="btn btn-outline-danger">btn btn-outline-danger</button>
+  <button type="button" class="btn btn-outline-dark">btn btn-outline-dark</button>
+  <button type="button" class="btn btn-outline-light text-dark">btn btn-outline-light text-dark</button>
+</div>
+</body>
+</html>

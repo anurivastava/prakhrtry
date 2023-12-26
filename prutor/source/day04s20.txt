@@ -1,0 +1,6 @@
+<html>
+<body>
+<p>I had a <b>great</b> time</p>
+<p>I had a <span style="color:red">great</span> time</p>
+</body>
+</html>

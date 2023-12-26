@@ -1,0 +1,13 @@
+<html>
+  <head>
+     <title>Javascript</title>
+     <script type="text/javascript">
+        alert("hello world");
+     </script>
+  </head>
+<body>
+
+  <h1>First JavaScript Page</h1>
+
+</body>
+</html>

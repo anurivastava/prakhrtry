@@ -1,0 +1,17 @@
+<html>
+<body>
+<h2>Array Methods - push() and pop()</h2> 
+<p id="demo"></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+
+<script>
+var cars = ["Maruti", "Volvo", "BMW"];
+document.getElementById("demo").innerHTML = cars;
+cars.pop();
+document.getElementById("demo1").innerHTML = cars;
+cars.push("TATA");
+document.getElementById("demo2").innerHTML = cars;
+</script>
+</body>
+</html>

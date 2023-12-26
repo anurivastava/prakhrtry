@@ -1,0 +1,17 @@
+<html>
+<head>
+<table border="1" height="100">
+    <tr>
+        <td width="100px"> </td>
+        <td width="400px"> </td>
+        <td width="100px"> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+</table>
+
+</body>
+</html>

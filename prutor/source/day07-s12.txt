@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<style>
+td {
+text-align: left;
+
+}
+</style>
+<body>
+<table border="1" cellpadding="0px" cellspacing="0px">
+<tr>
+<th>First name </th>
+<th>Last name </th>
+<th>Saving </th>
+</tr>
+<tr>
+<td>Abdul</td>
+   <td>Kalam</td>
+   <td>100</td>
+ </tr>
+ <tr>
+<td>Vikram</td>
+    <td>Sarabhai</td>
+    <td>150</td>
+ </tr>  
+ </table>
+</body>
+ </html>

@@ -1,0 +1,9 @@
+<html>
+<body>
+<nav>
+<a href="index.htm">Home</a>
+<a href="about.htm">About Us</a> 
+<a href="contact.htm">Contact Us</a>
+</nav>
+</body>
+</html>

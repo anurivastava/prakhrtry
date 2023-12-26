@@ -1,0 +1,10 @@
+<html>
+<body>
+<script>
+ var txt1 = "John";
+var txt2 = "Doe";
+var txt3 = txt1 + " " + txt2;  
+document.write(txt3);   
+</script>
+</body>
+</html>

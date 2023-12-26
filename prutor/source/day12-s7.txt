@@ -1,0 +1,12 @@
+<html>
+<body>
+<input name="fname" type="text">
+
+<p id="demo"></p>
+
+<script>
+  var x = document.getElementsByName("fname")[0].tagName;
+    document.getElementById("demo").innerHTML = x;
+</script>
+</body>
+</html>

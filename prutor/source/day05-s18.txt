@@ -1,0 +1,8 @@
+<html>
+<body>
+<img src="image.jpg" style="float:left;margin-right:10px;" 
+height="700" width="700">
+</body>
+</html>
+
+

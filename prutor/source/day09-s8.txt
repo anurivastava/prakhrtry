@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<form>
+<input type="month"><br>
+<input type="week" ><br>
+<input type="time" ><br>
+<input type="datetime-local" >
+</form>
+</html>

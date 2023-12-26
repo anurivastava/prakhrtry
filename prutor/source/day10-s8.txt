@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<body>
+<video width="520" height="340" controls>
+<source src="myvideo.mp4"type="video/mp4">
+</video>
+</body>
+</html>

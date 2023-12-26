@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<form>
+<select name="printers">
+<optgroup label="Inkjet">
+ <option>SuperJet 1400</option>
+ <option>SuperJet 1405</option>
+</optgroup>
+<optgroup label="Laser">
+  <option>SuperLaser Value Edition</option>
+<option>SuperLaser Pro</option>
+ </optgroup>
+ </select>
+ </form>
+</html>   

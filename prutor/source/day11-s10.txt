@@ -1,0 +1,11 @@
+<html>
+  <head>
+     <title>Javascript</title>
+  </head>
+<body>
+  <h1 id="myH"> </h1>
+<script>
+  document.getElementById("myH").innerHTML = "javascript";
+</script>
+</body>
+</html>

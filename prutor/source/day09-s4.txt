@@ -1,0 +1,6 @@
+<!doctype html>
+<html>
+<form>
+<input type="number" name="copies" min="0" max="100" step="1" value="1">
+</form>
+</html>

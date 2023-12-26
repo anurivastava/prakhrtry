@@ -1,0 +1,12 @@
+<html>
+<body>
+<style>
+p {
+  font-size: 70px;
+}
+</style>
+<h2> Styling a Link depending on state</h2>
+<p>Prutor </p>
+</body>
+</html>
+

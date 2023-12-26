@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<form>
+<select name="colors">
+<option>Red</option>
+<option>Blue</option>
+<option>Green</option>
+<option>Yellow</option>
+<option>Pink</option>
+</select>
+</form>
+</html>

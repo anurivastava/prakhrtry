@@ -1,0 +1,8 @@
+<html>
+<head>
+<ul>
+  <li>Red</li>
+  <li>Blue</li>
+</ul>
+</head>
+ </html>

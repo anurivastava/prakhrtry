@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<form>
+<input type="checkbox" name="color">
+<input type="checkbox" name="color" value="black">
+<input type="checkbox" name="color" checked="checked">
+</form>
+</html>

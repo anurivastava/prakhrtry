@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<form method="post" action="data.php">
+ <input type="email" id="email" name="email">
+ <input type="submit" value = "Enter email">
+</form>
+</html>

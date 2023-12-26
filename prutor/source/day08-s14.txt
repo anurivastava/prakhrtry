@@ -1,0 +1,5 @@
+<!doctype html>
+<html>
+<form>
+<input type="text" name="country" placeholder="Enter your country here">
+</html>

@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<form method="post" action="data.php">
+<input type="text" name="phone" size="30">
+<input type="text" name="phone" size="50" maxlength="10">
+</form>
+ 
+</html>

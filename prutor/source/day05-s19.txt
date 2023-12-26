@@ -1,0 +1,8 @@
+<html>
+<body>
+<figure>
+<img src="pic.jpg" alt="Italy">
+<figcaption>Fig.1 - Italy.</figcaption>
+ </figure>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<body>
+<em>Emphasized text</em>
+<br>
+<mark>Marked text</mark>
+<br>
+<small>Smaller text</small>
+<br>
+<del>Deleted text</del>
+<br>
+<ins>Inserted text</ins>
+</body>
+</html>
